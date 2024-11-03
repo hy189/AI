@@ -48,7 +48,7 @@ Colab的基本配置
 4.打开GPU
 
 Edit > Notebook settings 或者进入 Runtime > Change runtime type，然后选择 GPU 作为 Hardware accelerator（硬件加速器）。
-![image]()
+![image](https://github.com/hy189/AI/blob/926211737a4172187e67145d6f4028c6e2641cd0/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-31%20155811.png)
 
 5.使用 Google Colab 运行基本的 Python 代码
 
