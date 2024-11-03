@@ -43,7 +43,7 @@ Colab的基本配置
 ![image](https://github.com/hy189/AI/blob/02a2c1980f32ed6cba94895d061f2956382804d7/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-31%20154321.png)
 
 通过点击文件名来重命名笔记
-![image]()
+![image](https://github.com/hy189/AI/blob/a4c82e8a17c0b19caf5f82e37e687c11a6a6b4fc/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-31%20154910.png)
 
 4.打开GPU
 
