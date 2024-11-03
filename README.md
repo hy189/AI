@@ -40,15 +40,19 @@ Colab的基本配置
 ![image](https://github.com/hy189/AI/blob/111d1455217bcf76793b8287c5bd7d4caeb31888/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-31%20153926.png)
 
 3.创建新的Colab笔记（Notebook），通过 右键点击 > More > Colaboratory 步骤创建一个新的笔记
+![image](https://github.com/hy189/AI/blob/02a2c1980f32ed6cba94895d061f2956382804d7/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-31%20154321.png)
 
 通过点击文件名来重命名笔记
+![image]()
 
 4.打开GPU
 
 Edit > Notebook settings 或者进入 Runtime > Change runtime type，然后选择 GPU 作为 Hardware accelerator（硬件加速器）。
+![image]()
 
 5.使用 Google Colab 运行基本的 Python 代码
 
 这个倒是不常用，使用这个功能类似jupyter notebook，而我们要跑的代码基本是已经编辑好的工程项目。利用colab主要是想通过GPU加速更快的训练。
+![image]()
 
 6.在创建的文件夹页面上传你的整个要跑的文件(包括数据集)，右击选upload fold 或者直接拖拉也行
