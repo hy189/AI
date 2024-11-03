@@ -37,6 +37,8 @@ Colab的基本配置
 
 2.在 Google Drive 上创建文件夹，我创建的是名为人工智慧的文件夹
 
+![image](https://github.com/hy189/AI/blob/111d1455217bcf76793b8287c5bd7d4caeb31888/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-10-31%20153926.png)
+
 3.创建新的Colab笔记（Notebook），通过 右键点击 > More > Colaboratory 步骤创建一个新的笔记
 
 通过点击文件名来重命名笔记
